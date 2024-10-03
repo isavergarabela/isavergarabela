@@ -2,7 +2,7 @@
 
 - Eu me chamo Isabela Vergara 🦭🤍
 - Estou cursando o Novo Ensino Médio 
-- Sei usar o [Scratch](https://scratch.mit.edu/)  e estou aprendendo mexer com o [P5.JS](https://editor.p5js.org/)
+- Sei usar o [Scratch](https://scratch.mit.edu/)  e estou aprendendo mexer com JavaScripts
 - Utilizo os cursos da [Alura](https://cursos.alura.com.br/) para os meus estudos
 
 ## Meu email para contato: 🦭📬
